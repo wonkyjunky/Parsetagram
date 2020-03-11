@@ -29,7 +29,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://github.com/wonkyjunky/Parsetagram/blob/master/walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](https://github.com/phw/peek).
+GIF created with [Peek](https://github.com/phw/peek).
 
 ## Notes
 
